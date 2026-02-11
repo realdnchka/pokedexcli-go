@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/realdnchka/pokedexcli/internal/pokeapi"
-	"github.com/realdnchka/pokedexcli/internal/pokectx"
+	"github.com/realdnchka/pokedexcli-go/internal/pokeapi"
+	"github.com/realdnchka/pokedexcli-go/internal/pokectx"
 )
 
 type Command struct {

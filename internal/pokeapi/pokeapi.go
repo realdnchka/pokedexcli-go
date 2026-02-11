@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/realdnchka/pokedexcli/internal/pokecache"
+	"github.com/realdnchka/pokedexcli-go/internal/pokecache"
 )
 
 type Pagination struct {

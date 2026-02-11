@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/realdnchka/pokedexcli/internal/pokectx"
+	"github.com/realdnchka/pokedexcli-go/internal/pokectx"
 )
 
 var dbPokemon pokectx.DB
